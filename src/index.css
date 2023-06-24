@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'avenirs';
+	src: url('./assets/fonts/avenir.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+	font-family: 'avenirs';
+}
